@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/brachidz/herolo/static/css/main.5ac2878d.chunk.css",
+    "main.js": "/brachidz/herolo/static/js/main.5c014fdb.chunk.js",
+    "main.js.map": "/brachidz/herolo/static/js/main.5c014fdb.chunk.js.map",
+    "runtime-main.js": "/brachidz/herolo/static/js/runtime-main.1b6cf55b.js",
+    "runtime-main.js.map": "/brachidz/herolo/static/js/runtime-main.1b6cf55b.js.map",
+    "static/js/2.44b629de.chunk.js": "/brachidz/herolo/static/js/2.44b629de.chunk.js",
+    "static/js/2.44b629de.chunk.js.map": "/brachidz/herolo/static/js/2.44b629de.chunk.js.map",
+    "static/js/3.c90021dd.chunk.js": "/brachidz/herolo/static/js/3.c90021dd.chunk.js",
+    "static/js/3.c90021dd.chunk.js.map": "/brachidz/herolo/static/js/3.c90021dd.chunk.js.map",
+    "index.html": "/brachidz/herolo/index.html",
+    "static/css/main.5ac2878d.chunk.css.map": "/brachidz/herolo/static/css/main.5ac2878d.chunk.css.map",
+    "static/js/2.44b629de.chunk.js.LICENSE.txt": "/brachidz/herolo/static/js/2.44b629de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/brachidz/herolo/static/media/logo.6ce24c58.svg",
+    "static/media/p1.49f353ed.png": "/brachidz/herolo/static/media/p1.49f353ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6cf55b.js",
+    "static/js/2.44b629de.chunk.js",
+    "static/css/main.5ac2878d.chunk.css",
+    "static/js/main.5c014fdb.chunk.js"
+  ]
+}
